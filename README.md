@@ -1,1 +1,1 @@
-# KI_Wissenstransfer
+# Wissenstransfers durch KI und Erklärbarkeit
