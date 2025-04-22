@@ -4,6 +4,7 @@ Methoden des Wissenstransfers mittels Künstlicher Intelligenz im Bereich Hohlsc
 🔍 Projektüberblick
 
 Dieses Projekt erforscht, wie Künstliche Intelligenz (KI) und erklärbare KI (XAI) zur Wissensübertragung im industriellen Hohlschneideprozess beitragen können. Ziel ist es, bestehendes Expertenwissen durch datengetriebene Modelle zu ergänzen und zugänglich zu machen.​
+
 📁 Projektstruktur
 
     Data/ – Trainings- und Testdaten
