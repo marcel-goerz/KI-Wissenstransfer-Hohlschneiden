@@ -1,11 +1,11 @@
 # Wissenstransfers durch KI und Erklärbarkeit
 
-Methoden des Wissenstransfers mittels Künstlicher Intelligenz im Bereich Hohlschneiden​
+## Methoden des Wissenstransfers mittels Künstlicher Intelligenz im Bereich Hohlschneiden​
 🔍 Projektüberblick
 
 Dieses Projekt erforscht, wie Künstliche Intelligenz (KI) und erklärbare KI (XAI) zur Wissensübertragung im industriellen Hohlschneideprozess beitragen können. Ziel ist es, bestehendes Expertenwissen durch datengetriebene Modelle zu ergänzen und zugänglich zu machen.​
 
-📁 Projektstruktur
+## 📁 Projektstruktur
 
     Data/ – Trainings- und Testdaten
 
@@ -19,7 +19,7 @@ Dieses Projekt erforscht, wie Künstliche Intelligenz (KI) und erklärbare KI (X
 
     requirements.txt – Abhängigkeiten​
 
-🚀 Schnellstart
+## 🚀 Schnellstart
 
     Repository klonen:​
 
@@ -33,7 +33,7 @@ Dieses Projekt erforscht, wie Künstliche Intelligenz (KI) und erklärbare KI (X
 
     jupyter notebook GUI.ipynb
 
-🧠 Technologien
+## 🧠 Technologien
 
     Python & Jupyter Notebooks
 
@@ -43,10 +43,10 @@ Dieses Projekt erforscht, wie Künstliche Intelligenz (KI) und erklärbare KI (X
 
     GUI-Entwicklung mit ipywidgets​
 
-📄 Lizenz
+## 📄 Lizenz
 
 Dieses Projekt steht unter der MIT-Lizenz.​
-🔗 Weitere Informationen
+## 🔗 Weitere Informationen
 
 Institut für Umformtechnik (IFU), Universität Stuttgart​
 
