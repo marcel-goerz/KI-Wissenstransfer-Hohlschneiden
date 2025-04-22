@@ -47,6 +47,6 @@ Dieses Projekt erforscht, wie Künstliche Intelligenz (KI) und erklärbare KI (X
 Dieses Projekt steht unter der MIT-Lizenz.​
 🔗 Weitere Informationen
 
-Institut für Industrielle Fertigung und Fabrikbetrieb (IFF), Universität Stuttgart​
+Institut für Umformtechnik (IFU), Universität Stuttgart​
 
 👉 www.ifu.uni-stuttgart.de
