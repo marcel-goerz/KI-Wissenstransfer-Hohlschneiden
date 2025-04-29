@@ -34,15 +34,6 @@ Dieses Projekt erforscht, wie Künstliche Intelligenz (KI) und erklärbare KI (X
 
     jupyter notebook GUI.ipynb
 
-## 🧠 Technologien
-
-    Python & Jupyter Notebooks
-
-    Machine Learning mit scikit-learn
-
-    Explainable AI (z. B. SHAP, LIME)
-
-    GUI-Entwicklung mit ipywidgets​
 
 ## 📄 Lizenz
 
