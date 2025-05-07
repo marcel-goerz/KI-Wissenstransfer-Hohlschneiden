@@ -41,6 +41,7 @@ Dieses Projekt steht unter der MIT-Lizenz.​
 ## 🔗 Weitere Informationen
 
 Institut für Umformtechnik (IFU), Universität Stuttgart​
+
 Marcel Görz & Adrian Schenek
 
 👉 www.ifu.uni-stuttgart.de
