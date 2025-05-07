@@ -1,6 +1,6 @@
 # Wissenstransfers durch KI und Erklärbarkeit
 
-Methoden des Wissenstransfers mittels Künstlicher Intelligenz im Bereich Hohlschneiden​
+Methoden des Wissenstransfers mittels Künstlicher Intelligenz am Beispiel des [Hohlschneidens](https://www.efb.de/21053n.html)
 
 ## 🔍 Projektüberblick
 
